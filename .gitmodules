@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/coingaming/fe-test-task-ws.git
+[submodule "yolo-server"]
+	path = yolo-server
+	url = https://github.com/coingaming/fe-test-task-ws.git
