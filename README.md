@@ -1,5 +1,6 @@
-1. Go to yolo-server.
-2. Go to emitter.
-3. Run npm i to install dependencies then npm start
-4. Return to yolo client. Run npm i to install dependencies.
-5. run npm start.
+1. This contains submodules so, use " git clone --recurse-submodules <url>"
+2. Go to yolo-server.
+3. Go to emitter.
+4. Run npm i to install dependencies then npm start
+5. Return to yolo client. Run npm i to install dependencies.
+6. run npm start.
